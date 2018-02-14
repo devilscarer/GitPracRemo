@@ -1,0 +1,2 @@
+# GitPracRemo
+cloning Remotely
